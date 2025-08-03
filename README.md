@@ -3,7 +3,7 @@
 Plug-in designed to enhance data export experiences from Interactive Grids or Reports by enabling multi-file downloads with configurable chunk sizes and dynamic filenames.
 
 <h2>Installation</h2>
-Import plugin file "dynamic_action_plugin_ig_confirm_before_save.sql" from Source directory into your application.
+Import plugin file "region_type_plugin_chunkedfiledownloader.sql" from Source directory into your application.
 
 <h2>How to Use</h2>
   1) Provide a Static ID to the Interactive Grid for which you want to use this plugin.<br>
