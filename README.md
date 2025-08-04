@@ -16,7 +16,7 @@ Import plugin file "region_type_plugin_chunkedfiledownloader.sql" from Source di
       <li><strong>Button Label</strong> (Optional): Provide a label for the download button that will appear in the report toolbar.</li>
       <li><strong>Target Report Static ID</strong> (Mandatory): Specify the static ID of the target Interactive Grid (IG) or Interactive Report (IR). The plugin will use this to insert the download button into the report’s toolbar. Make sure the toolbar is enabled.</li>
       <li><strong>Max Rows</strong> (Mandatory): Define the maximum number of rows allowed for download. This is used for logic control within the plugin.</li>
-      <li><strong>Bind Items</strong> (Mandatory): List the bind items used in your report’s SQL query (comma-separated), so the plugin can properly fetch and use those values during export.</li>
+      <li><strong>Bind Items</strong> (Conditional): Required only if your SQL query contains bind variables. Provide a comma-separated list of those bind items so the plugin can resolve them correctly during export.</li>
     </ul>
   </li>
 </ul>
