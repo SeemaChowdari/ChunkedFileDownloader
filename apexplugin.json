@@ -35,10 +35,11 @@
             "plugin": {
                 "internalName": "SAM.CHUNKED_FILEDOWNLOADER",
                 "type": "region",
-                "demo": "https://apex.oracle.com/pls/apex/r/work_sam/chunkedfiledownloader"
+                "demo": "https://apex.oracle.com/pls/apex/r/work_sam/chunkedfiledownloader/report"
             }
         }
     }
 }
+
 
 
