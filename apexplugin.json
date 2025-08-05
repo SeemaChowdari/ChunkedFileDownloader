@@ -9,19 +9,20 @@
         "AJAX",
         "PL/SQL"
     ],
-    "homepage" : "https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander",
+    "homepage" : "https://github.com/SeemaChowdari/ChunkedFileDownloader",
     "bugs": {
-        "url": "https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander/issues",
+        "url": "https://github.com/SeemaChowdari/ChunkedFileDownloader/issues",
         "email": "seemachowdari@gmail.com"
     },
     "license": "MIT",
     "author": {
         "name": "Seema Choudhary B",
-        "email": "seemachowdari@gmail.com"   
+        "email": "seemachowdari@gmail.com",
+        "url" : "https://www.linkedin.com/in/seema-choudhary-952b2b232/"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander.git"
+        "url": "https://github.com/SeemaChowdari/ChunkedFileDownloader.git"
     },
     "oracle": {
         "versions": [
@@ -39,4 +40,5 @@
         }
     }
 }
+
 
