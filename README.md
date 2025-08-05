@@ -43,5 +43,6 @@ Import plugin file "region_type_plugin_chunkedfiledownloader.sql" from Source di
 
     
 <h2>Demo</h2>
+https://apex.oracle.com/pls/apex/r/work_sam/chunkedfiledownloader/report
 
 
