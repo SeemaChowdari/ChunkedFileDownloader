@@ -1,0 +1,43 @@
+{
+    "name": "Dynamic-Text-Area-Expander - Item Plug-In",
+    "version": "1.0.0",
+    "description": "To expand the text area item dynamically based on the input from the users and paste text also.",
+    "keywords": [
+        "APEX",
+        "ITEM",
+        "Oracle APEX",
+        "TEXT AREA",
+        "PL/SQL"
+    ],
+    "homepage" : "https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander",
+    "bugs": {
+        "url": "https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander/issues",
+        "email": "sridhar30_12@hotmail.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Sridhar Thayumanavar",
+        "email": "sridhar30_12@hotmail.com",
+        "url": "https://www.linkedin.com/in/sridhar-thayumanavar-b19768181/",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander.git"
+    },
+    "oracle": {
+        "versions": [
+            "23c, 23ai"
+        ],
+        "apex": {
+            "versions": [
+                "24.2"
+            ],
+            "plugin": {
+                "internalName": "SRI.DYNAMIC_TEXT_AREA_EXPANDING_OF_ITEM",
+                "type": "item",
+                "demo": "https://apex.oracle.com/pls/apex/r/digital_bid_suite/dynamic-text-area-expand-item/home",
+                "previewImage": "https://raw.githubusercontent.com/SridharThayumanavar/Dynamic-Text-Area-Expander/refs/heads/main/Preview.png"
+            }
+        }
+    }
+}
