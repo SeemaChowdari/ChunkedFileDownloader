@@ -37,11 +37,7 @@ Import plugin file "region_type_plugin_chunkedfiledownloader.sql" from Source di
   <li>The plugin <strong>automatically inserts</strong> the download button into the toolbar of the target IG/IR region, based on the provided static ID.</li>
   <li>Ensure that the <strong>toolbar is enabled</strong> in the target report. If the toolbar is not visible or properly configured, the download button will not appear.</li>
 </ul>
-
-<h2>Images For Reference</h2>
-
-
-    
+   
 <h2>Demo</h2>
 https://apex.oracle.com/pls/apex/r/work_sam/chunkedfiledownloader/report
 
