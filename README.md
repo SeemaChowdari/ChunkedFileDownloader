@@ -2,8 +2,6 @@
 
 Plug-in designed to enhance data export experiences from Interactive Grids or Reports by enabling multi-file downloads with configurable chunk sizes and dynamic filenames.
 
-# Overview
-
 ![](https://github.com/SeemaChowdari/ChunkedFileDownloader/blob/main/chunkedfiledownloader.gif)
 
 <h2>Installation</h2>
