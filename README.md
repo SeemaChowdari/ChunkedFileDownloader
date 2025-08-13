@@ -1,6 +1,7 @@
 <h1>ChunkedFileDownloader - Oracle APEX Region Plugin</h1>
 
 Plug-in designed to enhance data export experiences from Interactive Grids or Reports by enabling multi-file downloads with configurable chunk sizes and dynamic filenames.
+This plugin solves real-time issues related to large data exports, such as browser timeouts, memory crashes, and poor file organization. It intelligently splits large datasets into smaller, manageable files, with full support for custom filenames, automatic timestamping, and developer-defined or user-controlled settings via page items.
 
 ![](https://github.com/SeemaChowdari/ChunkedFileDownloader/blob/main/chunkedfiledownloader.gif)
 
