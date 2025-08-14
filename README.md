@@ -40,6 +40,7 @@ Import plugin file "region_type_plugin_chunkedfiledownloader.sql" from Source di
   <li>The plugin <strong>automatically inserts</strong> the download button into the toolbar of the target IG/IR region, based on the provided static ID.</li>
   <li>Ensure that the <strong>toolbar is enabled</strong> in the target report. If the toolbar is not visible or properly configured, the download button will not appear.</li>
   <li><strong>Only Excel (CSV) format is supported currently.</strong></li>
+  <li>Browser Settings - "Ask where to save each file before downloading" should be <strong>OFF</strong></li>
 </ul>
    
 <h2>Demo</h2>
