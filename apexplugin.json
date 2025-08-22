@@ -1,7 +1,7 @@
     {
     "name": "ChunkedFileDownloader - Region Plug-In",
     "version": "1.0.0",
-    "description": "Plug-in designed to enhance data export experiences from Interactive Grids or Reports by enabling multi-file downloads with configurable chunk sizes and dynamic filenames.This plugin solves real-time issues related to large data exports, such as browser timeouts, memory crashes, and poor file organization.",
+    "description": "Plug-in designed to enhance data export experiences from Interactive Grids or Reports by enabling multi-file downloads with configurable chunk sizes and dynamic filenames.This plugin solves real-time issues related to large data exports, such as browser timeouts, memory crashes, and poor file organization.It intelligently splits large datasets into smaller, manageable files, with full support for custom filenames, automatic timestamping, and developer-defined or user-controlled settings via page items.",
     "keywords": [
         "APEX",
         "REGION",
@@ -43,6 +43,7 @@
         }
     }
 }
+
 
 
 
