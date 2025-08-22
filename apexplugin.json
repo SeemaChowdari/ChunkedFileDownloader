@@ -30,7 +30,7 @@
         ],
         "apex": {
             "versions": [
-                "24.2"
+                "24.1, 24.2"
             ],
             "plugin": {
                 "internalName": "SAM.CHUNKED_FILEDOWNLOADER",
@@ -41,6 +41,7 @@
         }
     }
 }
+
 
 
 
