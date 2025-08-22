@@ -35,7 +35,7 @@
                 "24.2"
             ],
             "plugin": {
-                "internalName": "CHUNKED_FILEDOWNLOADER",
+                "internalName": "SAM.CHUNKED_FILEDOWNLOADER",
                 "type": "region",
                 "demo": "https://apex.oracle.com/pls/apex/r/work_sam/chunkedfiledownloader/report",
                 "previewImage" : "https://raw.githubusercontent.com/SeemaChowdari/ChunkedFileDownloader/refs/heads/main/Preview.png"
@@ -43,6 +43,7 @@
         }
     }
 }
+
 
 
 
